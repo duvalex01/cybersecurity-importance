@@ -1,4 +1,3 @@
 Why Networking is Important for Cybersecurity:"
 - Network security is foundational to cybersecurity.- Understanding network protocols helps in securing systems.- Monitoring network traffic is crucial for threat detection.
 -Networking helps in setting up secure connections like VPNs.
--Writing secure code helps in defending against injection attacks.
